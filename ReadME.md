@@ -1,19 +1,7 @@
-## Google Apps Script Codes ( Appoinment Booking )
+# Google Apps Scripts
 
-This repo contains google apps script of appoinment booking that is used by Dataflow marketing website and Digital Back Office website
+This repo contains google apps scripts that are being used.
 
-### Steps Before Deploying
+### Apps Scripts
 
-- Update the [Calendar ID](#calendar-id)  in the [Code.gs](Code.gs) file
-
-
-
-#### Calendar ID
-
-This is the ID of the calendar where the event gets created.
-
-**How to find the CalendarID**
-- Go to Google Calendar
-- Click on the ( **⋮** ) icon
-- Navigate to *Settings and sharing > Integrate Calendar*
-- Copy the *Calendar ID* and paste in the [Code.gs](Code.gs) file 
+- **Appoinment Booking** : This apps script is used to create calendar event while booking appointment from [Dataflow](https://dataflow.zone/) and [Digital Back Office](https://digitalbackoffice.co.uk/)
